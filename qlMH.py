@@ -144,4 +144,5 @@ def main():
                 quit()
             case 9:
                 print("Bạn Chọn Sai")
+                print("SAO THẾ NHỈ")
 main()
