@@ -142,4 +142,6 @@ def main():
             case 0:
                 print("Bạn Đã Thoát Chương Trình.GoodBye")
                 quit()
+            case 9:
+                print("Bạn Chọn Sai")
 main()
