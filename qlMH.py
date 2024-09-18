@@ -145,4 +145,6 @@ def main():
             case 9:
                 print("Bạn Chọn Sai")
                 print("SAO THẾ NHỈ")
+            case 8 :
+                print("Hello ANh Khánh Sky Đẹp Trai 1234")
 main()
